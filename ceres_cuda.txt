@@ -1,0 +1,1 @@
+C:\KinectFusion\Development\Libs\CeresCuda\lib\cmake\Ceres
