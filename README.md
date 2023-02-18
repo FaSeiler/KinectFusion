@@ -1,7 +1,5 @@
 # KinectFusion
 
-============
-
 This is an implementation of KinectFusion, based on _Newcombe, Richard A., et al._
 **KinectFusion: Real-time dense surface mapping and tracking.**
 
@@ -10,10 +8,10 @@ Dependencies
 * **CUDA 12.0**. In order to provide real-time reconstruction.
 * **OpenCV 4.7**. It requires to build OpenCV 4.7 with CUDA.
 * **Eigen3** for efficient matrix and vector operations.
-* **Glog**.
-* **Ceres**.
+* **Glog**
+* **Ceres**
 * **Flann** for nearest neighbor search.
-* **FreeImage**. 
+* **FreeImage**
 
 Prerequisites
 -------------
